@@ -1,7 +1,7 @@
-package kata.service;
+package ru.kata.spring.boot_security.demo.service;
 
-import kata.model.User;
-import kata.repository.UserRepository;
+import ru.kata.spring.boot_security.demo.model.User;
+import ru.kata.spring.boot_security.demo.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
